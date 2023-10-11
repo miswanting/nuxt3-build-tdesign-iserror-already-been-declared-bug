@@ -1,0 +1,21 @@
+{
+  "name": "bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "i": "^0.3.7",
+    "nuxt": "^3.7.4",
+    "pnpm": "^8.9.0",
+    "pug": "^3.0.2",
+    "sass": "^1.69.2",
+    "tdesign-vue-next": "1.5.7"
+  }
+}
